@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="sa">Section A\nObjectives</string>
+    <string name="q1">1.The average of first 50 natural numbers is ………….</string>
+    <string name="q1a">A.25.30</string>
+    <string name="q1b">B.25.5</string>
+    <string name="q1c">C.25.00</string>
+    <string name="q1d">D.12.25</string>
+    <string name="q2">2.A fraction which bears the same ratio to 1/27 as 3/11 bear to 5/9 is equal to  ………</string>
+    <string name="q2a">A.1/55</string>
+    <string name="q2b">B.55</string>
+    <string name="q2c">C.3/11</string>
+    <string name="q2d">D.1/11</string>
+    <string name="q3">3.The number of 3-digit numbers divisible by 6, is …………</string>
+    <string name="q3a">A.149</string>
+    <string name="q3b">B.166</string>
+    <string name="q3c">C.150</string>
+    <string name="q3d">D.151</string>
+    <string name="q4">4.What is 1004 divided by 2?</string>
+    <string name="q4a">A.52</string>
+    <string name="q4b">B.502</string>
+    <string name="q4c">C.520</string>
+    <string name="q4d">D.5002</string>
+    <string name="sb">Section B\nMultiple Answers</string>
+    <string name="q5">5.Multiples of 5?</string>
+    <string name="q5a">A.52</string>
+    <string name="q5b">B.500</string>
+    <string name="q5c">C.20</string>
+    <string name="q5d">D.4002</string>
+    <string name="q6">6.Multiples of 25?</string>
+    <string name="q6a">A.755</string>
+    <string name="q6b">B.100</string>
+    <string name="q6c">C.125</string>
+    <string name="q6d">D.250</string>
+    <string name="q7">7.Multiples of 13?</string>
+    <string name="q7a">A.39</string>
+    <string name="q7b">B.136</string>
+    <string name="q7c">C.126</string>
+    <string name="q7d">D.169</string>
+    <string name="sc">Section C\nFill In The Gaps</string>
+    <string name="q8">8.What is 23*45?</string>
+    <string name="q9">9.What is 56*54?</string>
+    <string name="q10">10.What is 169/13?</string>
+    <string name="submit">Submit</string>
+
+
+    <string name="reset">Reset</string>
+
+
+</resources>
